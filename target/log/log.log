@@ -1,0 +1,11 @@
+2023-05-22 16:45:44 INFO  - Sending Get request for books
+2023-05-22 16:45:45 INFO  - Sending Get request for books
+2023-05-22 16:45:45 INFO  - check if info is valid type
+2023-05-22 16:45:45 INFO  - Chceking books are sorted by id
+2023-05-22 16:45:45 INFO  - Creating Objects from xml
+2023-05-22 16:45:45 INFO  - Sending Get request for books
+2023-05-22 16:45:45 INFO  - Creating Objects from xml
+2023-05-22 16:45:45 INFO  - Sending Get request for books
+2023-05-22 16:45:45 INFO  - Chceking if books with lowest and highest price have different information
+2023-05-22 16:45:45 INFO  - Creating Objects from xml
+2023-05-22 16:45:45 INFO  - Sending Get request for books
